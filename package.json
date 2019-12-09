@@ -1,0 +1,26 @@
+{
+  "name": "react-adopt-me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier \"src/**/*.{js,html}\" --write",
+    "lint": "eslint \"src/**/*.{js,jsx}\" --quiet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santoshsibyala/react-adopt-me.git"
+  },
+  "author": "santoshsibyala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santoshsibyala/react-adopt-me/issues"
+  },
+  "homepage": "https://github.com/santoshsibyala/react-adopt-me#readme",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "eslint-config-prettier": "^6.7.0",
+    "prettier": "^1.19.1"
+  }
+}
